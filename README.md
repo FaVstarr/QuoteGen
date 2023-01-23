@@ -1,0 +1,2 @@
+# QuoteGen
+Daily quote Generator
